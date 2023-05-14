@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_demo.py:8 This is test_demo1

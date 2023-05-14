@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Tue May 09 22:13:30 CST 2023","Tue May 09 22:13:30 CST 2023","0","allure_demo.add_steps.tests","test_allure_steps","","","","搜索用例:pytest",""
+"failed","Tue May 09 22:13:30 CST 2023","Tue May 09 22:13:30 CST 2023","0","allure_demo.add_steps.tests","test_allure_steps","","","","搜索用例:unittest",""

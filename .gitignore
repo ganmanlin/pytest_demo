@@ -1,0 +1,11 @@
+*/results/
+*/allure-report/
+/venv/
+*.pyc
+*.css
+*.js
+*.html
+*.json
+*.pyc
+*.xml
+/.idea/
